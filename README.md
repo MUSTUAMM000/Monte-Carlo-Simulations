@@ -21,6 +21,7 @@ Result: The estimated probability is approximately 2.42%.
 
 
 
+
 Scenario #3: A Trivia Game
 Objective: Estimate probabilities for different outcomes in a trivia game between two contestants.
 Process:
